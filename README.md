@@ -1,4 +1,4 @@
-
+<img src="./main.png"/>
 ## Binary to Decimal Converter
 
 This is a simple web application that converts binary numbers to decimal numbers.
